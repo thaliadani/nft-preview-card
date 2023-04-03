@@ -21,8 +21,19 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+<div align="center">
+
 ### Screenshot
 
+### Mobile
+
+![image](https://user-images.githubusercontent.com/31187727/229529763-ae587bff-bb65-4885-b272-734fea66d18b.png)
+
+### Desktop
+
+![image](https://user-images.githubusercontent.com/31187727/229529627-7b86f4d9-416f-49a5-a706-a28173bd151e.png)
+
+</div>
 
 ### Links
 
