@@ -23,6 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
+## Mobile
+
+![image](https://user-images.githubusercontent.com/31187727/229529763-ae587bff-bb65-4885-b272-734fea66d18b.png)
+
+## Desktop
+
+![image](https://user-images.githubusercontent.com/31187727/229529627-7b86f4d9-416f-49a5-a706-a28173bd151e.png)
 
 ### Links
 
